@@ -71,8 +71,8 @@ Every coding session needs a soundtrack.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=qualyyy&theme=light">
-  <img alt="Top languages used in my GitHub repositories" src="https://ghstats.dev/api/langs?username=qualyyy">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=qualyyy&max_langs=6&theme=light">
+  <img alt="Top languages used in my GitHub repositories" src="https://ghstats.dev/api/langs?username=qualyyy&max_langs=6">
 </picture>
 
 <sub>Languages</sub><br>
