@@ -4,14 +4,11 @@
 
 <p align="center">
   <a href="https://qualyyy.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-4C6075?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio: qualyyy.github.io">
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Portfolio-4C6075?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio: qualyyy.github.io"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jarne-qualy-36393a292/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn: Jarne Qualy">
-  </a>&nbsp;&nbsp;
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn: Jarne Qualy"></a>&nbsp;&nbsp;
   <a href="https://discordapp.com/users/699921125328683079">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: qualyyy">
-  </a>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: qualyyy"></a>
 </p>
 
 ## About
