@@ -34,13 +34,12 @@ Every coding session needs a soundtrack.
 <table>
   <tr>
     <td>
-      <h3>
-        <a href="https://github.com/Qualyyy/vscode-custom-template-generator">
-          <b>Custom Template Generator</b>
-        </a>
-      </h3>
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.version&label=version&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace version">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.installs&label=installs&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace installs">
+      <a href="https://github.com/Qualyyy/vscode-custom-template-generator">
+        <big><b>Custom Template Generator</b></big>
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.version&label=version&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace version">&nbsp;
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.installs&label=installs&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace installs">&nbsp;
       <img src="https://img.shields.io/github/stars/Qualyyy/vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="GitHub stars">
       <br><br>
       A VS Code extension that scaffolds project folders and single files from customizable templates.
