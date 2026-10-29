@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://qualyyy.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-qualyyy.github.io-4C6075?style=flat-square&labelColor=16202B" alt="Portfolio: qualyyy.github.io">
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-4C6075?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio: qualyyy.github.io">
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jarne-qualy-36393a292/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jarne_Qualy-4C6075?style=flat-square&labelColor=16202B" alt="LinkedIn: Jarne Qualy">
-  </a>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn: Jarne Qualy">
+  </a>&nbsp;&nbsp;
   <a href="https://discordapp.com/users/699921125328683079">
-    <img src="https://img.shields.io/badge/Discord-qualyyy-4C6075?style=flat-square&labelColor=16202B" alt="Discord: qualyyy">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: qualyyy">
   </a>
 </p>
 
@@ -32,12 +32,22 @@ Every coding session needs a soundtrack.
   </a>
 </p>
 
-## Featured project: Custom Template Generator
+## Featured project
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Qualyyy/vscode-custom-template-generator"><b>Custom Template Generator</b></a>
+      <a href="https://github.com/Qualyyy/vscode-custom-template-generator"><b style="font-size: 1.25rem;">Custom Template Generator</b></a>
+      <div style="height: 8px;"></div>
+      <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator">
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.version&label=version&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace version">
+      </a>
+      <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator">
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.installs&label=installs&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace installs">
+      </a>
+      <a href="https://github.com/Qualyyy/vscode-custom-template-generator">
+        <img src="https://img.shields.io/github/stars/Qualyyy/vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="GitHub stars">
+      </a>
       <br><br>
       A VS Code extension that scaffolds project folders and single files from customizable templates.
       <ul>
@@ -48,10 +58,6 @@ Every coding session needs a soundtrack.
         <li>Never overwrites existing files</li>
       </ul>
       Built with TypeScript, the VS Code API and Node.js.
-      <br><br>
-      <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator"><img src="https://img.shields.io/visual-studio-marketplace/v/Qualyyy.vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace version"></a>
-      <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator"><img src="https://img.shields.io/visual-studio-marketplace/i/Qualyyy.vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace installs"></a>
-      <a href="https://github.com/Qualyyy/vscode-custom-template-generator"><img src="https://img.shields.io/github/stars/Qualyyy/vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="GitHub stars"></a>
       <br><br>
       <a href="https://github.com/Qualyyy/vscode-custom-template-generator">Repository</a> · <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator">Marketplace page</a>
     </td>
