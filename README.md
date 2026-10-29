@@ -35,12 +35,8 @@ Every coding session needs a soundtrack.
   <tr>
     <td>
       <a href="https://github.com/Qualyyy/vscode-custom-template-generator">
-        <big><b>Custom Template Generator</b></big>
+        <b>Custom Template Generator</b>
       </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.version&label=version&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace version">&nbsp;
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.installs&label=installs&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace installs">&nbsp;
-      <img src="https://img.shields.io/github/stars/Qualyyy/vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="GitHub stars">
       <br><br>
       A VS Code extension that scaffolds project folders and single files from customizable templates.
       <ul>
@@ -51,6 +47,10 @@ Every coding session needs a soundtrack.
         <li>Never overwrites existing files</li>
       </ul>
       Built with TypeScript, the VS Code API and Node.js.
+      <br><br>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.version&label=version&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace version">&nbsp;
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.installs&label=installs&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace installs">&nbsp;
+      <img src="https://img.shields.io/github/stars/Qualyyy/vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="GitHub stars">
       <br><br>
       <a href="https://github.com/Qualyyy/vscode-custom-template-generator">Repository</a> · <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator">Marketplace page</a>
     </td>
