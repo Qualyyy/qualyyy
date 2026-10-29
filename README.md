@@ -54,12 +54,20 @@ Every coding session needs a soundtrack.
 
 ## Other projects
 
-- [Web Components Navigator](https://github.com/Qualyyy/web-components-navigator): a small navigator for public web components, kept fresh automatically (JavaScript, GitHub Actions, Cloudflare)
-- Temp Watcher: a [Windows app](https://github.com/Qualyyy/temp-watcher) plus a [Wear OS app](https://github.com/Qualyyy/temp-watcher-wear-app) for monitoring PC temperatures from a smartwatch (C#, .NET, Kotlin, Jetpack Compose)
+- [**Web Components Navigator**](https://github.com/Qualyyy/web-components-navigator): a small navigator for public web components, kept fresh automatically (JavaScript, GitHub Actions, Cloudflare)
+
+- **Temp Watcher**: a [Windows app](https://github.com/Qualyyy/temp-watcher) plus a [Wear OS app](https://github.com/Qualyyy/temp-watcher-wear-app) for monitoring PC temperatures from a smartwatch (C#, .NET, Kotlin, Jetpack Compose)
+
+- **Blieps Spellenbib** _(private project)_: A searchable board game library for BULO Blijdhove, helping staff find suitable games through filters for age, player count, game type, executive functions, and more.
 
 ## Tech stack
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=qualyyy&theme=light">
+  <img alt="Top languages used in my GitHub repositories" src="https://ghstats.dev/api/langs?username=qualyyy">
+</picture>
 
 <sub>Languages</sub><br>
 
@@ -92,8 +100,6 @@ Every coding session needs a soundtrack.
 <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" title="Git" /></a>
 
 </div>
-
-The ones I enjoy most are TypeScript, C#, Java and Vue.
 
 ## Education
 
