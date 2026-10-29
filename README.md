@@ -126,6 +126,6 @@ Every coding session needs a soundtrack.
 ## GitHub stats
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=qualyyy&theme=light">
-  <img alt="GitHub Stats Card" src="https://ghstats.dev/api/card?username=qualyyy">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=qualyyy&show_ring=false&theme=light">
+  <img alt="GitHub Stats Card" src="https://ghstats.dev/api/card?username=qualyyy&show_ring=false">
 </picture>
