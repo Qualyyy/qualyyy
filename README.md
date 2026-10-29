@@ -42,15 +42,9 @@ Every coding session needs a soundtrack.
           <b>Custom Template Generator</b>
         </a>
       </h3>
-      <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.version&label=version&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace version">
-      </a>
-      <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.installs&label=installs&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace installs">
-      </a>
-      <a href="https://github.com/Qualyyy/vscode-custom-template-generator">
-        <img src="https://img.shields.io/github/stars/Qualyyy/vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="GitHub stars">
-      </a>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.version&label=version&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace version">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvs-marketplace-installs.qualyj.workers.dev%2FQualyyy.vscode-custom-template-generator&query=%24.installs&label=installs&style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace installs">
+      <img src="https://img.shields.io/github/stars/Qualyyy/vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="GitHub stars">
       <br><br>
       A VS Code extension that scaffolds project folders and single files from customizable templates.
       <ul>
