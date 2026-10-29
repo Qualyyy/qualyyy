@@ -16,6 +16,10 @@ Picking up a new language is half the fun for me. TypeScript, C# and Java are th
 
 Away from the keyboard I'm either gaming with friends or on the basketball court, which keeps me disciplined and reminds me that good results mostly come from working well with a team. Right now I'm looking for a student job where I can work on real projects and ship things that actually work.
 
+## Currently listening
+
+Every coding session needs a soundtrack.
+
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=14tbagqkv28ppc7seo0ld1dqm&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=14tbagqkv28ppc7seo0ld1dqm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false">
@@ -106,3 +110,10 @@ The ones I enjoy most are TypeScript, C#, Java and Vue.
 | 2018 to 2024                   | Industrial Sciences                            | VTI Ieper               |
 
 </details>
+
+## GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=qualyyy&theme=light">
+  <img alt="GitHub Stats Card" src="https://ghstats.dev/api/card?username=qualyyy">
+</picture>
