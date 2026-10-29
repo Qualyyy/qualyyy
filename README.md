@@ -10,32 +10,43 @@
 
 ## About
 
-I'm a software engineering student from Belgium, currently in Applied CS (Software Engineering) at Howest Brugge. I enjoy variety and thrive on new problems, whether that's a web app, a small tool or something entirely different, and I'm always looking for the next language or tool to sink my teeth into. I'm looking for a student job that fits my studies. Outside of code I game with friends and play basketball, which keeps me disciplined and reminds me that the best results come from working well with a team.
+I'm a software engineering student at Howest in Bruges, and I'm happiest when the next problem looks nothing like the last one. So far that has meant a VS Code extension, a smartwatch app for keeping an eye on PC temperatures, and a handful of smaller experiments.
+
+Picking up a new language is half the fun for me. TypeScript, C# and Java are the ones I keep coming back to, and Vue is the framework I enjoy most.
+
+Away from the keyboard I'm either gaming with friends or on the basketball court, which keeps me disciplined and reminds me that good results mostly come from working well with a team. Right now I'm looking for a student job where I can work on real projects and ship things that actually work.
+
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=14tbagqkv28ppc7seo0ld1dqm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=14tbagqkv28ppc7seo0ld1dqm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 ## Featured project: Custom Template Generator
 
-<a href="https://github.com/Qualyyy/vscode-custom-template-generator">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Qualyyy&repo=vscode-custom-template-generator&title_color=8FB8DB&text_color=E8EEF3&icon_color=8FB8DB&bg_color=16202B&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Qualyyy&repo=vscode-custom-template-generator&title_color=16202B&text_color=4C6075&icon_color=4C6075&bg_color=E8EEF3&hide_border=true">
-    <img alt="Pin card for the Qualyyy/vscode-custom-template-generator repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Qualyyy&repo=vscode-custom-template-generator&title_color=16202B&text_color=4C6075&icon_color=4C6075&bg_color=E8EEF3&hide_border=true">
-  </picture>
-</a>
-
-A VS Code extension that scaffolds project folders and single files from customizable templates.
-
-- Variable prompts with default values
-- Case conversion, such as camelCase and kebab-case
-- Optional files and lines inside a template
-- Cross-platform name validation
-- Never overwrites existing files, and every run can be reverted in one click
-
-Built with TypeScript, the VS Code API and Node.js.
-
-<a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator"><img src="https://img.shields.io/visual-studio-marketplace/v/Qualyyy.vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace version"></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator"><img src="https://img.shields.io/visual-studio-marketplace/i/Qualyyy.vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace installs"></a>
-
-[Repository](https://github.com/Qualyyy/vscode-custom-template-generator) · [Marketplace page](https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Qualyyy/vscode-custom-template-generator"><b>Custom Template Generator</b></a>
+      <br><br>
+      A VS Code extension that scaffolds project folders and single files from customizable templates.
+      <ul>
+        <li>Variable prompts with default values</li>
+        <li>Case conversion, such as camelCase and kebab-case</li>
+        <li>Optional files and lines inside a template</li>
+        <li>Cross-platform name validation</li>
+        <li>Never overwrites existing files</li>
+      </ul>
+      Built with TypeScript, the VS Code API and Node.js.
+      <br><br>
+      <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator"><img src="https://img.shields.io/visual-studio-marketplace/v/Qualyyy.vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace version"></a>
+      <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator"><img src="https://img.shields.io/visual-studio-marketplace/i/Qualyyy.vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="Visual Studio Marketplace installs"></a>
+      <a href="https://github.com/Qualyyy/vscode-custom-template-generator"><img src="https://img.shields.io/github/stars/Qualyyy/vscode-custom-template-generator?style=flat-square&labelColor=16202B&color=4C6075" alt="GitHub stars"></a>
+      <br><br>
+      <a href="https://github.com/Qualyyy/vscode-custom-template-generator">Repository</a> · <a href="https://marketplace.visualstudio.com/items?itemName=Qualyyy.vscode-custom-template-generator">Marketplace page</a>
+    </td>
+  </tr>
+</table>
 
 ## Other projects
 
@@ -95,26 +106,3 @@ The ones I enjoy most are TypeScript, C#, Java and Vue.
 | 2018 to 2024                   | Industrial Sciences                            | VTI Ieper               |
 
 </details>
-
-## GitHub stats
-
-<table>
-  <tr>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Qualyyy&show_icons=true&custom_title=GitHub%20stats&title_color=8FB8DB&text_color=E8EEF3&icon_color=8FB8DB&bg_color=16202B&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Qualyyy&show_icons=true&custom_title=GitHub%20stats&title_color=16202B&text_color=4C6075&icon_color=4C6075&bg_color=E8EEF3&hide_border=true">
-        <img alt="GitHub stats for Qualyyy" src="https://github-readme-stats.vercel.app/api?username=Qualyyy&show_icons=true&custom_title=GitHub%20stats&title_color=16202B&text_color=4C6075&icon_color=4C6075&bg_color=E8EEF3&hide_border=true">
-      </picture>
-    </td>
-    <td valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Qualyyy&layout=compact&custom_title=Top%20languages&title_color=8FB8DB&text_color=E8EEF3&bg_color=16202B&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Qualyyy&layout=compact&custom_title=Top%20languages&title_color=16202B&text_color=4C6075&bg_color=E8EEF3&hide_border=true">
-        <img alt="Most used languages on GitHub for Qualyyy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qualyyy&layout=compact&custom_title=Top%20languages&title_color=16202B&text_color=4C6075&bg_color=E8EEF3&hide_border=true">
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<!-- You're reading the raw source, which I respect. If you want to talk code, tools or basketball, say hi on Discord: qualyyy -->
