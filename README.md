@@ -3,9 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://qualyyy.github.io/"><img src="https://img.shields.io/badge/Portfolio-qualyyy.github.io-4C6075?style=flat-square&labelColor=16202B" alt="Portfolio: qualyyy.github.io"></a>
-  <a href="https://www.linkedin.com/in/jarne-qualy-36393a292/"><img src="https://img.shields.io/badge/LinkedIn-Jarne_Qualy-4C6075?style=flat-square&labelColor=16202B" alt="LinkedIn: Jarne Qualy"></a>
-  <img src="https://img.shields.io/badge/Discord-qualyyy-4C6075?style=flat-square&labelColor=16202B" alt="Discord: qualyyy">
+  <a href="https://qualyyy.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-qualyyy.github.io-4C6075?style=flat-square&labelColor=16202B" alt="Portfolio: qualyyy.github.io">
+  </a>
+  <a href="https://www.linkedin.com/in/jarne-qualy-36393a292/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jarne_Qualy-4C6075?style=flat-square&labelColor=16202B" alt="LinkedIn: Jarne Qualy">
+  </a>
+  <a href="https://discordapp.com/users/699921125328683079">
+    <img src="https://img.shields.io/badge/Discord-qualyyy-4C6075?style=flat-square&labelColor=16202B" alt="Discord: qualyyy">
+  </a>
 </p>
 
 ## About
